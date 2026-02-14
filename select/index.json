@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "一閃は君が導く",
+  "base_artist": "放課後クライマックスガールズ",
+  "createdAt": "2026-02-14T13:06:48.709690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一閃は君が導く",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/01_一閃は君が導く_放課後クライマックスガールズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一閃は君が導く (Off Vocal)",
+      "artist": "放課後クライマックスガールズ (河野ひより, 白石晴香, 永井真里子, 丸岡和佳奈, 涼本あきほ)",
+      "has_synced": false,
+      "path": "select/02_一閃は君が導く_(Off_Vocal)_放課後クライマックスガールズ_(河野ひより,_白石晴香,_永井真里子,_丸岡和佳奈,_涼本あきほ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "一閃は君が導く",
+      "artist": "放課後クライマックスガールズ (河野ひより, 白石晴香, 永井真里子, 丸岡和佳奈, 涼本あきほ)",
+      "has_synced": false,
+      "path": "select/03_一閃は君が導く_放課後クライマックスガールズ_(河野ひより,_白石晴香,_永井真里子,_丸岡和佳奈,_涼本あきほ).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "一閃は君が導く",
+      "artist": "放課後クライマックスガールズ [小宮果穂 (CV.河野ひより), 園田智代子 (CV.白石晴香), 西城樹里 (CV.永井真里子), 杜野凛世 (CV.丸岡和佳奈), 有栖川夏葉 (CV.涼本あきほ)]",
+      "has_synced": false,
+      "path": "select/04_一閃は君が導く_放課後クライマックスガールズ_[小宮果穂_(CV.河野ひより),_園田智代子_(CV.白石晴香),_西城樹里_(CV.永井真里子),_杜野凛世_(CV.丸岡和佳.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一閃は君が導く",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/pl_01_一閃は君が導く_放課後クライマックスガールズ.txt"
+    }
+  ]
+}
